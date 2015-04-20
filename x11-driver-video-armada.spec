@@ -15,6 +15,7 @@ BuildRequires:  pkgconfig(xorg-macros)
 BuildRequires:  pkgconfig(xorg-server)
 BuildRequires:  pkgconfig(xproto)
 BuildRequires:  pkgconfig(libdrm_armada)
+BuildRequires:  pkgconfig(libetnaviv)
 Requires:       x11-server-common %(xserver-sdk-abi-requires videodrv)
 
 %description
