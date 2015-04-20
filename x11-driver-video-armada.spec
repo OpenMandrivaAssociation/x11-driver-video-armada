@@ -3,7 +3,7 @@
 Summary:        X.org driver for KMS based systems
 Name:           x11-driver-video-armada
 Version:        0.0.0
-Release:        0.%{snap}.1
+Release:        0.%{snap}.2
 Group:          System/X11
 License:        MIT
 Url:            http://xorg.freedesktop.org
