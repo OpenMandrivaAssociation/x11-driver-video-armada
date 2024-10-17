@@ -6,7 +6,7 @@ Version:        0.0.0
 Release:        0.%{snap}.1
 Group:          System/X11
 License:        MIT
-Url:            http://xorg.freedesktop.org
+Url:            https://xorg.freedesktop.org
 # git clone http://ftp.arm.linux.org.uk/cgit/xf86-video-armada.git/ -b unstable-devel
 # git archive -o ~/x11-driver-video-armada/x11-driver-video-armada-20191215.tar --prefix x11-driver-video-armada-20191215/ origin/unstable-devel
 Source0:        x11-driver-video-armada-20191215.tar.xz
